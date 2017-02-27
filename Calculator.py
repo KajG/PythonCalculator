@@ -2,7 +2,7 @@ import sys
 
 class calculate():
 	def __init__(self):
-		self.startValue = sys.argv[1]
+		#self.startValue = sys.argv[1]
 
 		self.main()
 
